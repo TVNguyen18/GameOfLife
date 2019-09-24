@@ -5,7 +5,7 @@
  * Date:         2019/09/24
  */
 
-public class Cis36Fall2019Group1FirstSubmission {
+public class cis36Fall2019Group1FirstSubmission {
     public static void main (String[] args) {
         System.out.println("Group Members:\n" +
                 "  Thanhthanh Nguyen,\n" +
